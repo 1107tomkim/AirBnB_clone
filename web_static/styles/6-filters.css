@@ -9,7 +9,7 @@
 button {
     font-size: 18px;
     background-color: #FF5A5F;
-    color: white;
+    color: #FFFFFF;
     height: 48px;
     width: 20%;
     border: none;
@@ -30,6 +30,7 @@ button:hover {
     text-indent: 45px;
     position:relative;
     margin-left: 0px;
+    display: inline-block;
 }
 
 .amenities {
